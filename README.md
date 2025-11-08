@@ -75,11 +75,11 @@ A **Flutter** companion app brings weather, sensors, QR tools, kids’ games, an
 
 ### Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2680e1d3-5b6f-4685-a2b5-c43efcd43528" alt="Screenshot 1" width="19%"/>
-  <img src="https://github.com/user-attachments/assets/38abdd6a-8115-4590-af0b-df616a5421f6" alt="Screenshot 2" width="19%"/>
-  <img src="https://github.com/user-attachments/assets/37f137e1-2935-49ff-9a2f-d26b1bdfc56a" alt="Screenshot 3" width="19%"/>
-  <img src="https://github.com/user-attachments/assets/f334e595-a06c-4d45-a4a7-d3503de8012a" alt="Screenshot 4" width="19%"/>
-  <img src="https://github.com/user-attachments/assets/64c9f080-3dae-4782-bce9-71b447d664b9" alt="Screenshot 5" width="19%"/>
+  <img src="https://github.com/user-attachments/assets/2680e1d3-5b6f-4685-a2b5-c43efcd43528" alt="Screenshot 1" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/38abdd6a-8115-4590-af0b-df616a5421f6" alt="Screenshot 2" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/37f137e1-2935-49ff-9a2f-d26b1bdfc56a" alt="Screenshot 3" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/f334e595-a06c-4d45-a4a7-d3503de8012a" alt="Screenshot 4" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/64c9f080-3dae-4782-bce9-71b447d664b9" alt="Screenshot 5" width="100%"/>
 </div>
 
 > Tip: On GitHub web, click a screenshot to view full size.
